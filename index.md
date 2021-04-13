@@ -5,7 +5,7 @@ and laboratory work. This workshop is currently in the proof-of-concept phase an
 conducted in an interdiciplinary format. Be sure to look through the course materials,
 event details, and registrations pages!
 
-# Summer 2021 Workshop - August 2-6, 2021
+## Summer 2021 Workshop - August 2-6, 2021
 * [COVID Policy](COVID_policy.html)
 * [Travel](travel.html)
 * [Summer 2021 Schedule](2021_summer_schedule.html)
