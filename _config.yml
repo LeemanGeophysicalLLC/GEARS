@@ -1,1 +1,7 @@
+title: GEARs Workshops
+description: Generalist Electromechanics for Applied Researchers Workshops
+show_downloads: false
+google_analytics:
 theme: jekyll-theme-architect
+github:
+  is_project_page: false
