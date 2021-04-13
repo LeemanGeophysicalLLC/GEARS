@@ -4,6 +4,7 @@
 
 ### Schedule
 | Time        |       Presenter     | Description                                           |
+| ----------- | ------------------- | ----------------------------------------------------- |
 | 0800 - 0830 |        Leeman       | Welcome, Outline of Course, Introductions, Safety     |
 | 0830 - 0900 |                     | Introduction to Electronics and Schematics            |
 | 0900 - 0930 |                     | How to Prototype Electronics                          |
@@ -17,7 +18,7 @@
 | 1500 - 1600 |                     | Lab Activity 3                                        |
 | 1600 - 1700 |                     | Lab Activity 4                                        |
 
-** There will be a group dinner at Callahan's Steakhouse after the course **
+**There will be a group dinner at Callahan's Steakhouse after the course**
 
 ### Labs
 * Soldering Through Hole and Surface Mount - Building Blinky!
