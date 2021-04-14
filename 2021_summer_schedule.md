@@ -265,7 +265,7 @@
   <tr>
     <td>1300 - 1700</td>
     <td></td>
-    <td>Team Projects</td>
+    <td>Project/Hack Time, Elective Content</td>
   </tr>
 </tbody>
 </table>
@@ -290,7 +290,7 @@
   <tr>
     <td>0830 - 0930</td>
     <td></td>
-    <td>Group Presentations</td>
+    <td>How to Troubleshoot</td>
   </tr>
   <tr>
     <td>0930 - 1000</td>
@@ -325,7 +325,7 @@
   <tr>
     <td>1330 - 1400</td>
     <td></td>
-    <td>TBD</td>
+    <td>Dulin</td>
   </tr>
   <tr>
     <td>1400 - 1430</td>

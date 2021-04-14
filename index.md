@@ -9,3 +9,5 @@ event details, and registrations pages!
 * [COVID Policy](COVID_policy.html)
 * [Travel](travel.html)
 * [Summer 2021 Schedule](2021_summer_schedule.html)
+* [What to Bring](what_to_bring.html)
+* Registration Coming Soon!
