@@ -7,7 +7,7 @@ is a great small town and has many options for food, entertainment, and outdoors
 **We recommend arriving Sunday afternoon August 1st and departing Friday evening.**
 
 ## Travel
-We recommend travel into the Northwest Araknsas National Airport (KXNA). Sometimes you'll hear
+We recommend travel into the Northwest Arkansas National Airport (KXNA). Sometimes you'll hear
 it called Highfill, Bentonville, Rogers, or Fayetteville - but as long as it is XNA you'll come
 to the right spot! We will provide a ride from the airport to the hotel for you, just be sure
 to send us your flight details at john@leemangeophysical.com. We will also be providing rides
