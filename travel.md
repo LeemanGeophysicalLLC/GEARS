@@ -33,7 +33,7 @@ hotel. We've listed them below as well as some that are further away, but also g
 Uber is alive and well in Siloam, as is Bit Squad. Lunch will be provided at the workshop.
 
 ### Walkable From the Hotel
-* La Hacienda De Los Reye
+* La Hacienda De Los Reyes
 * Domino's Pizza
 * Jim's Razorback Pizza
 * Burger King
