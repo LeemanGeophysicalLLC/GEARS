@@ -71,3 +71,15 @@ Uber is alive and well in Siloam, as is Bit Squad. Lunch will be provided at the
 * Barnett's Dairyette
 * Cherokee Casino
 * and lots of other chain fast food
+
+## Area Activities
+Northwest Arkansas is a beautiful place to explore with activities ranging from hiking, biking,
+and climbing to museums, shopping, and dining. Below we've listed a few activities close to
+the workshop, but we're happy to help you find activities further away if you're planning on
+staying in the area to explore.
+
+* Sager Creek Trail (walk/bike on a nice paved trail)
+* Downtown Park (walk through downtown and enjoy the shops and outdoors areas)
+* City Lake (disc golf, biking, hiking, a bit of a drive)
+* John Brown University (beautiful campus and walk with tennis courts and more)
+* Many shops and museums a short drive away in Rogers/Bentonville on request!

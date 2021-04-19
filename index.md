@@ -10,4 +10,5 @@ event details, and registrations pages!
 * [Travel](travel.html)
 * [Summer 2021 Schedule](2021_summer_schedule.html)
 * [What to Bring](what_to_bring.html)
-* Registration Coming Soon!
+* Student Registration/Supplies Cost $500
+* [Register Here!](https://forms.gle/XnAy9roWiEDTDdho6)
