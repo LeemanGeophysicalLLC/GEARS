@@ -35,24 +35,23 @@
 <td>Lunch - Pizza</td>
 </tr>
 <tr>
-<tr>
 <td>1300 - 1400</td>
 <td></td>
 <td>Lab Activity 1</td>
 </tr>
-<tr>
-<td>1400 - 1500</td>
-<td></td>
-<td>Lab Activity 2</td>
-</tr>
-<tr>
-<td>1500 - 1600</td>
-<td></td>
-<td>Lab Activity 3</td>
-</tr>
-<tr>
-<td>1600 - 1700</td>
-<td></td>
-<td>Lab Activity 4</td>
-</tr>
+  <tr>
+    <td>1400 - 1500</td>
+    <td></td>
+    <td>Lab Activity 2</td>
+  </tr>
+  <tr>
+    <td>1500 - 1600</td>
+    <td></td>
+    <td>Lab Activity 3</td>
+  </tr>
+  <tr>
+    <td>1600 - 1700</td>
+    <td></td>
+    <td>Lab Activity 4</td>
+  </tr>
 </table>
