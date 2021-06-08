@@ -60,12 +60,3 @@
 </tr>
 </tbody>
 </table>
-
-**We'll arrange a meeting place for dinner so everyone can get acquainted.**
-
-### Labs
-* Soldering Through Hole and Surface Mount - Building Blinky! (Leader Josh K.)
-* Using Amplifiers for Calculus (Leader John B.)
-* Instrumentation Amplifiers and Transducers (Leader Steve S.)
-* Tapping into Communications with Probes and Logic Analyzers (Leader John L.)
-
