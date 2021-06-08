@@ -272,7 +272,7 @@
   <tr>
     <td>1030 - 1100</td>
     <td>Anandakrishnan</td>
-    <td></td>
+    <td>Challenges in Polar In-Situ Observations</td>
   </tr>
   <tr>
     <td>1100 - 1130</td>
