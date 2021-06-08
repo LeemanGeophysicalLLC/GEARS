@@ -30,15 +30,16 @@
 <td></td>
 <td>Operational Amplifiers</td>
 </tr>
+<tr>
 <td>1200 - 1300</td>
 <td></td>
 <td>Lunch - Pizza</td>
 </tr>
-<tr>
-<td>1300 - 1400</td>
-<td></td>
-<td>Lab Activity 1</td>
-</tr>
+  <tr>
+    <td>1300 - 1400</td>
+    <td></td>
+    <td>Lab Activity 1</td>
+  </tr>
   <tr>
     <td>1400 - 1500</td>
     <td></td>
