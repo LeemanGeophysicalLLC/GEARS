@@ -80,7 +80,7 @@
   <tr>
     <td>0800 - 0830</td>
     <td></td>
-    <td>Analog to Digital Conversion</td>
+    <td>ADC/DAC Conversion</td>
   </tr>
   <tr>
     <td>0830 - 0900</td>
@@ -90,11 +90,7 @@
   <tr>
     <td>0900 - 0930</td>
     <td></td>
-    <td>Digital to Analog Conversion</td>
-  </tr>
-  <tr>
-    <td>1100 - 1130</td>
-    <td>Common Transducer Types</td>
+    <td>Transducers</td>
   </tr>
   <tr>
     <td>0930 - 1000</td>
@@ -102,7 +98,7 @@
     <td>Calibration Basics</td>
   </tr>
   <tr>
-    <td>1000 - 1000</td>
+    <td>1000 - 1100</td>
     <td></td>
     <td>Control Systems</td>
   </tr>
@@ -290,7 +286,7 @@
   <tr>
     <td>1300 - 1330</td>
     <td>Dulin</td>
-    <td></td>
+    <td>How I Learned to Stop Worrying and Love the Magnetometer</td>
   </tr>
   <tr>
     <td>1330 - 1345</td>
