@@ -224,6 +224,7 @@
     <td></td>
     <td>LabView Programming (Lab/Lecture Mix)</td>
   </tr>
+  <tr>
     <td>1200 - 1300</td>
     <td></td>
     <td>Lunch - Chinese</td>
