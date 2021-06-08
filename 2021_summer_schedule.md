@@ -5,14 +5,11 @@
 ### Schedule
 
 <table>
-<thead>
 <tr>
 <th>Time</th>
 <th>Presenter</th>
 <th>Description</th>
 </tr>
-</thead>
-<tbody>
 <tr>
 <td>0800 - 0830</td>
 <td>Leeman</td>
@@ -58,5 +55,4 @@
 <td></td>
 <td>Lab Activity 4</td>
 </tr>
-</tbody>
 </table>
