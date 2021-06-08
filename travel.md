@@ -4,7 +4,7 @@ The workshop will be held in beautiful Northwest Arkansas at the Leeman Geophysi
 and neighboring building. [Siloam Springs](https://en.wikipedia.org/wiki/Siloam_Springs,_Arkansas)
 is a great small town and has many options for food, entertainment, and outdoors activities.
 
-**We recommend arriving Sunday afternoon August 1st and departing Friday evening.**
+**We recommend arriving Sunday afternoon August 1st and departing Friday evening or Saturday morning.**
 
 ## Travel
 We recommend travel into the Northwest Arkansas National Airport (KXNA). Sometimes you'll hear
