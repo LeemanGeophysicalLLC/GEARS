@@ -3,6 +3,7 @@
 ## Day 1
 
 ### Schedule
+
 <table>
 <thead>
 <tr>
