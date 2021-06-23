@@ -266,8 +266,8 @@
   </tr>
   <tr>
     <td>1000 - 1030</td>
-    <td>Nugent</td>
-    <td></td>
+    <td>Dulin</td>
+    <td>How I Learned to Stop Worrying and Love the Magnetometer</td>
   </tr>
   <tr>
     <td>1030 - 1100</td>
@@ -286,8 +286,8 @@
   </tr>
   <tr>
     <td>1300 - 1330</td>
-    <td>Dulin</td>
-    <td>How I Learned to Stop Worrying and Love the Magnetometer</td>
+    <td>Nugent</td>
+    <td>Creation of a Sea-Salt Sampler with Arduino and 3D Printing</td>
   </tr>
   <tr>
     <td>1330 - 1345</td>
