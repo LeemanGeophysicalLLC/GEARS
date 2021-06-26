@@ -57,13 +57,13 @@
   </tr>
 </table>
 
-**We'll arrange a meeting place for dinner so everyone can get acquainted.**
+**We'll arrange an optional meeting place for dinner so everyone can get acquainted.**
 
 ### Labs
-* Soldering Through Hole and Surface Mount - Building Blinky! (Leader Josh K.)
-* Using Amplifiers for Calculus (Leader John B.)
-* Instrumentation Amplifiers and Transducers (Leader Steve S.)
-* Tapping into Communications with Probes and Logic Analyzers (Leader John L.)
+* Soldering Through Hole and Surface Mount - Building Blinky!
+* Operational Amplifiers and Impedance
+* Instrumentation Amplifiers and Transducers
+* Tapping into Communications with Probes and Logic Analyzers
 
 ## Day 2
 
@@ -136,10 +136,10 @@
 </table>
 
 ### Labs
-* PID Controllers and Tuning (Leader John B.)
-* ADCs, Filters, and Aliasing (Leader John L.)
-* Calibration of Transducers (Leader Steve S.)
-* Working with Pneumatic Actuators (Leader Josh K.)
+* PID Controllers and Tuning
+* ADCs, Filters, and Aliasing
+* Calibration of Transducers
+* Working with Pneumatic Actuators
 
 ## Day 3
 
@@ -202,10 +202,10 @@
 </table>
 
 ### Labs
-* Machining (Leader John B.)
-* Welding (Leader John L.)
-* Power tools (May be omitted for time or elective blocks. Leader Russell L.)
-* Threads, bolts, rivets, fasteners (Leader Steve S.)
+* Machining - Lathe
+* Machining - Mill
+* Welding
+* Threads, bolts, rivets, fasteners
 
 ## Day 4
 
