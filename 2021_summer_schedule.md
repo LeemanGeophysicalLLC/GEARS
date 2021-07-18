@@ -12,22 +12,22 @@
 </tr>
 <tr>
 <td>0800 - 0830</td>
-<td>Leeman</td>
+<td>Team</td>
 <td>Welcome, Outline of Course, Introductions, Safety</td>
 </tr>
 <tr>
 <td>0830 - 1000</td>
-<td></td>
+<td>John Leeman</td>
 <td>Introduction to Electronics and Schematics</td>
 </tr>
 <tr>
 <td>1000-1100</td>
-<td></td>
+<td>Capt. Jeff Grass and SSFD B Shift</td>
 <td>Live Fire Extinguisher and Safety Training</td>
 </tr>
 <tr>
 <td>1100-1200</td>
-<td></td>
+<td>John Leeman</td>
 <td>Operational Amplifiers</td>
 </tr>
 <tr>
@@ -57,7 +57,7 @@
   </tr>
 </table>
 
-**We'll arrange an optional meeting place for dinner so everyone can get acquainted.**
+**Dinner on your own, but mixer at Ivory Bill Brewing 6:30-onward. Rides will be arranged.**
 
 ### Labs
 * Soldering Through Hole and Surface Mount - Building Blinky!
@@ -78,34 +78,29 @@
 </thead>
 <tbody>
   <tr>
-    <td>0800 - 0830</td>
-    <td></td>
-    <td>ADC/DAC Conversion</td>
-  </tr>
-  <tr>
-    <td>0830 - 0900</td>
-    <td></td>
-    <td>Filtering</td>
+    <td>0800 - 0900</td>
+    <td>John Leeman</td>
+    <td>DAQ Systems and Filtering</td>
   </tr>
   <tr>
     <td>0900 - 0930</td>
-    <td></td>
+    <td>John Leeman</td>
     <td>Transducers</td>
   </tr>
   <tr>
     <td>0930 - 1000</td>
-    <td></td>
+    <td>John Leeman</td>
     <td>Calibration Basics</td>
   </tr>
   <tr>
     <td>1000 - 1100</td>
-    <td></td>
+    <td>John Leeman</td>
     <td>Control Systems</td>
   </tr>
   <tr>
     <td>1100 - 1200</td>
-    <td></td>
-    <td>Hydraulics and Pneumatics</td>
+    <td>John Leeman</td>
+    <td>Fluid Power</td>
   </tr>
   <tr>
     <td>1200 - 1300</td>
@@ -155,23 +150,23 @@
 <tbody>
   <tr>
     <td>0800 - 1000</td>
-    <td></td>
-    <td>Introduction to 3D CAD with Fusion 360 and Making a Drawing</td>
+    <td>John Blackman</td>
+    <td>Introduction to 3D CAD and 3D Printing</td>
   </tr>
   <tr>
     <td>1000 - 1030</td>
-    <td></td>
-    <td>3D Printing</td>
+    <td>Cody Ulaga - Alternative Design</td>
+    <td>Working with Sheet Metal</td>
   </tr>
   <tr>
     <td>1030 - 1100</td>
-    <td></td>
+    <td>John Leeman</td>
     <td>Design and Machining Techniques</td>
   </tr>
   <tr>
     <td>1100 - 1130</td>
-    <td></td>
-    <td>Design for Prototyping</td>
+    <td>John Leeman</td>
+    <td>Field Considerations</td>
   </tr>
   <tr>
     <td>1200 - 1300</td>
@@ -221,7 +216,7 @@
 <tbody>
   <tr>
     <td>0800 - 1200</td>
-    <td></td>
+    <td>John Leeman</td>
     <td>LabView Programming (Lab/Lecture Mix)</td>
   </tr>
   <tr>
@@ -231,7 +226,7 @@
   </tr>
   <tr>
     <td>1300 - 1700</td>
-    <td></td>
+    <td>John Leeman</td>
     <td>Arduino and Interfacing (Lab/Lecture Mix)</td>
   </tr>
 </tbody>
@@ -256,28 +251,28 @@
   </tr>
   <tr>
     <td>0830 - 0930</td>
-    <td></td>
+    <td>John Leeman</td>
     <td>How to Troubleshoot</td>
   </tr>
   <tr>
     <td>0930 - 1000</td>
-    <td>Bruning</td>
+    <td>Eric Bruning</td>
     <td>Field Measurements for Lightning Physics and Meteorology</td>
   </tr>
   <tr>
     <td>1000 - 1030</td>
-    <td>Dulin</td>
+    <td>Shannon Dulin</td>
     <td>How I Learned to Stop Worrying and Love the Magnetometer</td>
   </tr>
   <tr>
     <td>1030 - 1100</td>
-    <td>Anandakrishnan</td>
+    <td>Sridhar Anandakrishnan</td>
     <td>Challenges in Polar In-Situ Observations</td>
   </tr>
   <tr>
     <td>1100 - 1130</td>
-    <td>Goldsby</td>
-    <td></td>
+    <td>Scott DeWolff</td>
+    <td>Using Fiber Optic Technology</td>
   </tr>
   <tr>
     <td>1200 - 1300</td>
@@ -286,12 +281,12 @@
   </tr>
   <tr>
     <td>1300 - 1330</td>
-    <td>Nugent</td>
+    <td>Alison Nugent</td>
     <td>Creation of a Sea-Salt Sampler with Arduino and 3D Printing</td>
   </tr>
   <tr>
     <td>1330 - 1345</td>
-    <td>Leeman</td>
+    <td>John Leeman</td>
     <td>Exit Survey</td>
   </tr>
   <tr>
