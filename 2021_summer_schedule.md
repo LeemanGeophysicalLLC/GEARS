@@ -154,12 +154,7 @@
     <td>Introduction to 3D CAD and 3D Printing</td>
   </tr>
   <tr>
-    <td>1000 - 1030</td>
-    <td>Cody Ulaga - Alternative Design</td>
-    <td>Working with Sheet Metal</td>
-  </tr>
-  <tr>
-    <td>1030 - 1100</td>
+    <td>1000 - 1100</td>
     <td>John Leeman</td>
     <td>Design and Machining Techniques</td>
   </tr>
@@ -176,31 +171,15 @@
   <tr>
     <td>1300 - 1400</td>
     <td></td>
-    <td>Lab 1</td>
+    <td>Shop Tours Leeman Geophysical and Nance Machine</td>
   </tr>
   <tr>
-    <td>1400 - 1500</td>
-    <td></td>
-    <td>Lab 2</td>
-  </tr>
-  <tr>
-    <td>1500 - 1600</td>
-    <td></td>
-    <td>Lab 3</td>
-  </tr>
-  <tr>
-    <td>1600 - 1700</td>
-    <td></td>
-    <td>Lab 4</td>
+    <td>1400 - 1700</td>
+    <td>John Leeman</td>
+    <td>Arduino and Interfacing (Lab/Lecture Mix)</td>
   </tr>
 </tbody>
 </table>
-
-### Labs
-* Machining - Lathe
-* Machining - Mill
-* Welding
-* Threads, bolts, rivets, fasteners
 
 ## Day 4
 
@@ -215,22 +194,48 @@
 </thead>
 <tbody>
   <tr>
-    <td>0800 - 1200</td>
-    <td>John Leeman</td>
-    <td>LabView Programming (Lab/Lecture Mix)</td>
+    <td>0800 - 0830</td>
+    <td>Leeman/Ulaga</td>
+    <td>Intro, Safety, and Sheet Metal Work</td>
   </tr>
   <tr>
-    <td>1200 - 1300</td>
+    <td>0830 - 0930</td>
+    <td></td>
+    <td>Lab 1</td>
+  </tr>
+  <tr>
+    <td>0930 - 1030</td>
+    <td></td>
+    <td>Lab 2</td>
+  </tr>
+  <tr>
+    <td>1030 - 1130</td>
+    <td></td>
+    <td>Lab 3</td>
+  </tr>
+  <tr>
+    <td>1130 - 1230</td>
+    <td></td>
+    <td>Lab 4</td>
+  </tr>
+  <tr>
+    <td>1230 - 1330</td>
     <td></td>
     <td>Lunch - Chinese</td>
   </tr>
   <tr>
-    <td>1300 - 1700</td>
+    <td>1330 - 1700</td>
     <td>John Leeman</td>
-    <td>Arduino and Interfacing (Lab/Lecture Mix)</td>
+    <td>LabView Programming (Lab/Lecture Mix)</td>
   </tr>
 </tbody>
 </table>
+
+### Labs
+* Machining - Lathe
+* Machining - Mill
+* Welding
+* Threads, bolts, rivets, fasteners
 
 ## Day 5
 
