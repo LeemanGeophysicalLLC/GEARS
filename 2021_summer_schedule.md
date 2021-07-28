@@ -105,7 +105,7 @@
   <tr>
     <td>1200 - 1300</td>
     <td></td>
-    <td>Lunch - Mexican</td>
+    <td>Lunch - Sandwiches</td>
   </tr>
   <tr>
     <td>1300 - 1400</td>
@@ -163,10 +163,15 @@
     <td>John Leeman</td>
     <td>Field Considerations</td>
   </tr>
+    <tr>
+    <td>1130 - 1200</td>
+    <td>Steve Swavely</td>
+    <td>Working with Piezo Transducers</td>
+  </tr>
   <tr>
     <td>1200 - 1300</td>
     <td></td>
-    <td>Lunch - Sandwiches</td>
+    <td>Lunch - Mexican</td>
   </tr>
   <tr>
     <td>1300 - 1400</td>
@@ -290,7 +295,12 @@
     <td>Creation of a Sea-Salt Sampler with Arduino and 3D Printing</td>
   </tr>
   <tr>
-    <td>1330 - 1345</td>
+    <td>1330 - 1400</td>
+    <td>Kiya Riverman</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>1400</td>
     <td>John Leeman</td>
     <td>Exit Survey</td>
   </tr>
