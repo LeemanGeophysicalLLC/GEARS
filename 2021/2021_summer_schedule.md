@@ -13,7 +13,7 @@
 <tr>
 <td>0800 - 0830</td>
 <td>Team</td>
-<td>[Welcome, Outline of Course, Introductions, Safety](Welcome and Safety.pdf)</td>
+<td><a href="Welcome and Safety.pdf">Welcome, Outline of Course, Introductions, Safety]</a></td>
 </tr>
 <tr>
 <td>0830 - 1000</td>
