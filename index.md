@@ -5,10 +5,11 @@ and laboratory work. This workshop is currently in the proof-of-concept phase an
 conducted in an interdiciplinary format. Be sure to look through the course materials,
 event details, and registrations pages!
 
-## Summer 2021 Workshop - August 2-6, 2021
+
+## Past Events
+* [August 2-6, 2021](2021/2021_summer_schedule.html)
+
+## General
 * [COVID Policy](COVID_policy.html)
 * [Travel](travel.html)
-* [Summer 2021 Schedule](2021_summer_schedule.html)
 * [What to Bring](what_to_bring.html)
-* Student Registration/Supplies Cost $500
-* [Register Here!](https://forms.gle/XnAy9roWiEDTDdho6)
