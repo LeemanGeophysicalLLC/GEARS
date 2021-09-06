@@ -13,12 +13,12 @@
 <tr>
 <td>0800 - 0830</td>
 <td>Team</td>
-<td><a href="Welcome and Safety.pdf">Welcome, Outline of Course, Introductions, Safety]</a></td>
+<td><a href="Welcome and Safety.pdf">Welcome, Outline of Course, Introductions, Safety</a></td>
 </tr>
 <tr>
 <td>0830 - 1000</td>
 <td>John Leeman</td>
-<td>[Introduction to Electronics and Schematics](Electronics and Schematics.pdf)</td>
+<td><a href="Electronics and Schematics.pdf">Introduction to Electronics and Schematics</a></td>
 </tr>
 <tr>
 <td>1000-1100</td>
@@ -28,7 +28,7 @@
 <tr>
 <td>1100-1200</td>
 <td>John Leeman</td>
-<td>[Operational Amplifiers](Operational Amplifiers.pdf)</td>
+<td><a href="Operational Amplifiers.pdf">Operational Amplifiers</a></td>
 </tr>
 <tr>
 <td>1200 - 1300</td>
@@ -80,17 +80,17 @@
   <tr>
     <td>0800 - 0900</td>
     <td>John Leeman</td>
-    <td>[DAQ Systems and Filtering](ADC DAC Filters.pdf)</td>
+    <td><a href="ADC DAC Filters.pdf">DAQ Systems and Filtering</a></td>
   </tr>
   <tr>
     <td>0900 - 0930</td>
     <td>John Leeman</td>
-    <td>[Transducers](Transducers.pdf)</td>
+    <td><a href="Transducers.pdf">Transducers</a></td>
   </tr>
   <tr>
     <td>0930 - 1000</td>
     <td>John Leeman</td>
-    <td>[Calibration Basics](Calibration.pdf)</td>
+    <td><a href="Calibration.pdf">Calibration Basics</a></td>
   </tr>
   <tr>
     <td>1000 - 1100</td>
@@ -100,7 +100,7 @@
   <tr>
     <td>1100 - 1200</td>
     <td>John Leeman</td>
-    <td>[Fluid Power](Fluid Power.pdf)</td>
+    <td><a href="Fluid Power.pdf">Fluid Power</a></td>
   </tr>
   <tr>
     <td>1200 - 1300</td>
@@ -151,17 +151,17 @@
   <tr>
     <td>0800 - 1000</td>
     <td>John Blackman</td>
-    <td>[Introduction to 3D CAD and 3D Printing](3D Printing.pdf)</td>
+    <td><a href="3D Printing.pdf">Introduction to 3D CAD and 3D Printing</a></td>
   </tr>
   <tr>
     <td>1000 - 1100</td>
     <td>John Leeman</td>
-    <td>[Design and Machining Techniques](Design and Machining.pdf)</td>
+    <td><a href="Design and Machining.pdf">Design and Machining Techniques</a></td>
   </tr>
   <tr>
     <td>1100 - 1130</td>
     <td>John Leeman</td>
-    <td>[Field Considerations](Field Considerations.pdf)</td>
+    <td><a href="Field Considerations.pdf">Field Considerations</a></td>
   </tr>
     <tr>
     <td>1130 - 1200</td>
@@ -201,7 +201,7 @@
   <tr>
     <td>0800 - 0830</td>
     <td>Leeman/Ulaga</td>
-    <td>[Intro, Safety, and Sheet Metal Work](Cody Ulaga Presentation.pdf)</td>
+    <td><a href="Cody Ulaga Presentation.pdf">Intro, Safety, and Sheet Metal Work</a></td>
   </tr>
   <tr>
     <td>0830 - 0930</td>
@@ -262,7 +262,7 @@
   <tr>
     <td>0830 - 0930</td>
     <td>John Leeman</td>
-    <td>[How to Troubleshoot](Troubleshooting.pdf)</td>
+    <td><a href="Troubleshooting.pdf">How to Troubleshoot</a></td>
   </tr>
   <tr>
     <td>0930 - 1000</td>
@@ -282,7 +282,7 @@
   <tr>
     <td>1100 - 1130</td>
     <td>Scott DeWolff</td>
-    <td>Using Fiber Optic Technology</td>
+    <td><a href="Scott GEARS.pdf">Using Fiber Optic Technology</a></td>
   </tr>
   <tr>
     <td>1200 - 1300</td>
@@ -292,7 +292,7 @@
   <tr>
     <td>1300 - 1330</td>
     <td>Alison Nugent</td>
-    <td>Creation of a Sea-Salt Sampler with Arduino and 3D Printing</td>
+    <td><a href="Nugent_GEARS.pdf">Creation of a Sea-Salt Sampler with Arduino and 3D Printing</a></td>
   </tr>
   <tr>
     <td>1330 - 1400</td>
