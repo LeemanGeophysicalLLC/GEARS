@@ -14,11 +14,11 @@ to send us your flight details at john@leemangeophysical.com. We will also be pr
 to the airport for departure.
 
 ## Lodging
-A block of rooms has been reserved at the [Hampton Inn](https://www.hilton.com/en/hotels/fyvsshx-hampton-siloam-springs/)
-in Siloam Springs. Just call and tell them you're with the GEARs program. The hotel is within
+We **will be** reserving a room block at the [Hampton Inn](https://www.hilton.com/en/hotels/fyvsshx-hampton-siloam-springs/)
+in Siloam Springs. The hotel is within
 walking distance of many eateries, convenience stores, and a WalMart. We will shuttle you to
 and from the workshop, though if the weather is pleasant, you may enjoy the 15-20 minute walk
-as well. Just let us know so the vans are not waiting on you!
+as well. Just let us know so the vans are not waiting on you! We will be sending a separate email when the rooms are available.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3220.339280112068!2d-94.51896408476995!3d36.18262968008034!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c9a27eba7f1223%3A0xbc00c25c02f4e906!2sHampton%20Inn%20Siloam%20Springs!5e0!3m2!1sen!2sus!4v1618358499410!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
@@ -55,6 +55,7 @@ Uber is alive and well in Siloam, as is Bit Squad. Lunch will be provided at the
 * Tropical Smoothie Cafe
 * Jimmy John's
 * 7Brew
+* Eat My Catfish
 
 ### Others
 * Callahan's Steakhouse
