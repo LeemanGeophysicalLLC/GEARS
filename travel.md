@@ -28,10 +28,10 @@ neighboring VFW building. Many hands on activities will take place in the shop, 
 will be at the VFW.
 
 ## Food
-Breakfast and dinner are on your own. The hotel does have a small breakfast buffet.
+Meals, except the Thursday night BBQ are on your own. The hotel does have a small breakfast buffet.
 There are many eateries within walking distance of the hotel. We've listed them below as
 well as some that are further away, but also good choices.
-Uber is alive and well in Siloam, as is Bit Squad. Lunch will be provided at the workshop.
+Uber is alive and well in Siloam, as is Bite Squad.
 
 ### Walkable From the Hotel
 * La Hacienda De Los Reyes
