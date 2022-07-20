@@ -28,7 +28,8 @@ neighboring VFW building. Many hands on activities will take place in the shop, 
 will be at the VFW.
 
 ## Food
-Meals, except the Thursday night BBQ are on your own. The hotel does have a small breakfast buffet.
+Meals, except the Thursday night BBQ and Friday lunch are on your own.
+The hotel does have a small breakfast buffet.
 There are many eateries within walking distance of the hotel. We've listed them below as
 well as some that are further away, but also good choices.
 Uber is alive and well in Siloam, as is Bite Squad.
@@ -56,6 +57,8 @@ Uber is alive and well in Siloam, as is Bite Squad.
 * Jimmy John's
 * 7Brew
 * Eat My Catfish
+* IHOP
+* Pieology
 
 ### Others
 * Callahan's Steakhouse
