@@ -51,7 +51,7 @@ After the workshop, please join us for a BBQ celebrating sucessful instrument bu
 at the shop! We'll be having a BBQ with outdoor games, food, and more at the Leeman House.
 
 ## Friday
-* 0800-0900 Field Considerations
+* 0800-0900 Pickup Instruments - Additional topics if there is time
 * 0900-1100 Data Analysis/Presentation Preparation
 * 1100-1200 Group Presentations
 * 1200-1330 Lunch
