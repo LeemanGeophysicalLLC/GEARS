@@ -3,13 +3,13 @@ Breaks are not shown on the schedule, but we will have short 10-15 minute breaks
 for refreshments.
 
 ## Monday
-* 0800-0900 Welcome, Introductions, Safety, Shop Walk Through
-* 0900-1030 Multimeters, Oscilloscopes, and Electricity Basics
+* 0800-0900 [Welcome, Introductions, Safety, Shop Walk Through](Welcome and Safety.pdf)
+* 0900-1030 [Multimeters, Oscilloscopes, and Electricity Basics](Multimeters, Oscilloscopes, and Electricity Basics.pdf)
 * 1030-1200 Soldering demo and lab - build a blinky!
 * 1200-1330 Lunch
-* 1330-1430 Designing for Manufacture (3D Printing, Machining, Laser Cutting)
-* 1430-1530 Making a DAQ System that Makes Sense
-* 1530-1700 Build a Load Cell Lecture/Lab
+* 1330-1430 Designing for Manufacture ([3D Printing](3D Printing.pdf), [Machining](Design and Machining.pdf), [Laser Cutting](Laser Cutting.pdf))
+* 1430-1530 [Making a DAQ System that Makes Sense](Making a DAQ System that Makes Sense.pdf)
+* 1530-1700 Build a [Load Cell Lecture](Wheatstone Bridges and Load Cells.pdf)/Lab
 * 1800-2000 Brewery Poster Session and Mixer ([Ivory Bill Brewing 516 E. Main St.](https://www.theivorybill.com/))
 
 The evening event will be a poster session open to the public, we'll all be mixing to learn
@@ -28,24 +28,24 @@ deliver food to the brewery, and Casey at the bar can recommend food/beer for an
 Weather permitting we will offer plane rides over Siloam and the surrounding area from 1800-2000.
 
 ## Wednesday
-* 0800-0900 Calibration and Standards
+* 0800-0900 [Calibration and Standards](Calibration.pdf)
 * 0900-1200 Instrument Building - Session 3
 * 1200-1330 Lunch
 * 1300-1500 Instrument Deployments/Testing
 * 1500-1600 Overflow/Look at test data/initial interpretation
-* 1600-1700 Troubleshooting and Impedance
+* 1600-1700 [Troubleshooting](Troubleshooting.pdf)
 
 Weather permitting we will offer plane rides over Siloam and the surrounding area from 1800-2000.
 
 ## Thursday
-* 0800-0900 Sensors, Transducers, and Actuators
-* 0900-1000 Operational and Instrumentation Amplifiers
-* 1000-1200 Signal Conditioning. Amplify, test, calibrate load cells.
+* 0800-0900 [Sensors, Transducers, and Actuators](Transducers.pdf)
+* 0900-1000 [Operational and Instrumentation Amplifiers](Operational Amplifiers.pdf)
+* 1000-1200 Amplify, test, calibrate load cells.
 * 1200-1330 Lunch
 * 1330-1430 Nance Machine Tour
-* 1430-1530 Control Systems and PID
-* 1530-1630 Pneumatics, Hydraulics, and Fluid Power
-* 1630-1700 Instrumentation Applications by Eric Bruning
+* 1430-1530 [Control Systems and PID](Control Systems.pdf)
+* 1530-1630 Flex Time
+* 1630-1700 [Instrumentation Applications by Eric Bruning](GEARS-Bruning-2022.pdf)
 
 After the workshop, please join us for a BBQ celebrating sucessful instrument builds and a week
 at the shop! We'll be having a BBQ with outdoor games, food, and more at the Leeman House.

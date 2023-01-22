@@ -6,13 +6,13 @@ conducted in an interdiciplinary format. Be sure to look through the course mate
 event details, and registrations pages!
 
 ## Upcoming Events
-* [August 1-5, 2022 Schedule](2022/2022_summer_schedule.html)
+* Summer 2023 Coming Soon!
 
 ## General
-* [Registration for 2022](https://forms.gle/A8ZzWHTVssARisSa6)
 * [COVID Policy](COVID_policy.html)
 * [Travel](travel.html)
 * [What to Bring](what_to_bring.html)
 
 ## Past Events
+* [August 1-5, 2022 Schedule](2022/2022_summer_schedule.html)
 * [August 2-6, 2021](2021/2021_summer_schedule.html)
