@@ -1,8 +1,11 @@
 # Travel and Lodging
 
-The workshop will be held in beautiful Northwest Arkansas at the Leeman Geophysical facility
-and neighboring building. [Siloam Springs](https://en.wikipedia.org/wiki/Siloam_Springs,_Arkansas)
+The workshop will be held in beautiful Northwest Arkansas at the Leeman Geophysical facility.
+[Siloam Springs](https://en.wikipedia.org/wiki/Siloam_Springs,_Arkansas) (where you will stay)
 is a great small town and has many options for food, entertainment, and outdoors activities.
+[Gentry](https://en.wikipedia.org/wiki/Gentry,_Arkansas) (where the facility is) is a nice
+rural setting about 10 minutes from Siloam Springs by car.
+No public transportation is available in the area.
 
 **We recommend arriving Sunday afternoon August 1st and departing Friday evening or Saturday morning.**
 
@@ -17,22 +20,21 @@ to the airport for departure.
 We **will be** reserving a room block at the [Hampton Inn](https://www.hilton.com/en/hotels/fyvsshx-hampton-siloam-springs/)
 in Siloam Springs. The hotel is within
 walking distance of many eateries, convenience stores, and a WalMart. We will shuttle you to
-and from the workshop, though if the weather is pleasant, you may enjoy the 15-20 minute walk
-as well. Just let us know so the vans are not waiting on you! We will be sending a separate email when the rooms are available.
+and from the workshop if needed. We will be sending a separate email when the rooms are available.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3220.339280112068!2d-94.51896408476995!3d36.18262968008034!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c9a27eba7f1223%3A0xbc00c25c02f4e906!2sHampton%20Inn%20Siloam%20Springs!5e0!3m2!1sen!2sus!4v1618358499410!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
 ## Venue
-The workshop will be held at the Leeman Geophysical building (850 S. Lincoln St.) and the
-neighboring VFW building. Many hands on activities will take place in the shop, but lectures
-will be at the VFW.
+The workshop will be held at the Leeman Geophysical building (23830 West Highway 12 Gentry, AR).
+This is a state of the art machining and manufacturing facility with tons of tools and resources
+available for the workshop.
 
 ## Food
 Meals, except the Thursday night BBQ and Friday lunch are on your own.
 The hotel does have a small breakfast buffet.
 There are many eateries within walking distance of the hotel. We've listed them below as
 well as some that are further away, but also good choices.
-Uber is alive and well in Siloam, as is Bite Squad.
+Uber is alive and well in Siloam, as is Bite Squad. For lunch we recommend going into Gentry.
 
 ### Walkable From the Hotel
 * La Hacienda De Los Reyes
@@ -76,6 +78,20 @@ Uber is alive and well in Siloam, as is Bite Squad.
 * Barnett's Dairyette
 * Cherokee Casino
 * and lots of other chain fast food
+
+## Gentry
+* The Wooden Spoon (amazing home cooking style food)
+* Miss Mary's (Diner)
+* La Huerta Mexican Restaurant
+* Pioneer Pizza
+* Burrito House and Taqueria
+* Jim's Razorback Pizza
+* M&K Hot Food (Food truck)
+* Sonic
+* Subway
+* McDonald's
+* Burger Shack (Food truck)
+
 
 ## Area Activities
 Northwest Arkansas is a beautiful place to explore with activities ranging from hiking, biking,
