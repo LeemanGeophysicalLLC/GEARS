@@ -6,7 +6,7 @@ conducted in an interdiciplinary format. Be sure to look through the course mate
 event details, and registrations pages!
 
 ## Upcoming Events
-* [August 7-11, 2023 Schedule](2023/2023_summer_schedule.html)
+* [November 6-10, 2023 Schedule](2023/2023_summer_schedule.html)
 * [Summer 2023 Registration](https://docs.google.com/forms/d/e/1FAIpQLSdEhgpwD0CHcVcInhd67alK2GUannu_ZIzncnpt69tOYEfCsQ/viewform?usp=sf_link)
 
 ## General
