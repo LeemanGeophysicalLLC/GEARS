@@ -7,7 +7,7 @@ is a great small town and has many options for food, entertainment, and outdoors
 rural setting about 10 minutes from Siloam Springs by car.
 No public transportation is available in the area.
 
-**We recommend arriving Sunday afternoon August 1st and departing Friday evening or Saturday morning.**
+**We recommend arriving Sunday November 5th and departing Friday evening or Saturday morning.**
 
 ## Travel
 We recommend travel into the Northwest Arkansas National Airport (KXNA). Sometimes you'll hear
@@ -17,10 +17,13 @@ to send us your flight details at john@leemangeophysical.com. We will also be pr
 to the airport for departure.
 
 ## Lodging
-We **will be** reserving a room block at the [Hampton Inn](https://www.hilton.com/en/hotels/fyvsshx-hampton-siloam-springs/)
+We recommend the [Hampton Inn](https://www.hilton.com/en/hotels/fyvsshx-hampton-siloam-springs/)
 in Siloam Springs. The hotel is within
 walking distance of many eateries, convenience stores, and a WalMart. We will shuttle you to
-and from the workshop if needed. We will be sending a separate email when the rooms are available.
+and from the workshop if needed. When booking call the local number (479) 215-1000. **DO NOT** press
+the first option for new reservations. Stay on the line for the operator and tell them you are with
+the GEARS workshop for our better nightly rate. If you press the new reservation option you end
+up at a national call center that has no idea what GEARS is.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3220.339280112068!2d-94.51896408476995!3d36.18262968008034!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c9a27eba7f1223%3A0xbc00c25c02f4e906!2sHampton%20Inn%20Siloam%20Springs!5e0!3m2!1sen!2sus!4v1618358499410!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
@@ -37,7 +40,6 @@ well as some that are further away, but also good choices.
 Uber is alive and well in Siloam, as is Bite Squad. For lunch we recommend going into Gentry.
 
 ### Walkable From the Hotel
-* La Hacienda De Los Reyes
 * Domino's Pizza
 * Jim's Razorback Pizza
 * Burger King
@@ -60,14 +62,10 @@ Uber is alive and well in Siloam, as is Bite Squad. For lunch we recommend going
 * 7Brew
 * Eat My Catfish
 * IHOP
-* Pieology
 
-### Others
+### Others in Siloam Springs
 * Callahan's Steakhouse
-* Ziggywurst
-* 28 Springs/Roost
 * Pure Joy Ice Cream
-* Fratelli's Wood-Fired Pizza
 * Cafe on Broadway
 * Pour John's
 * Tintos & Tapas
@@ -86,11 +84,9 @@ Uber is alive and well in Siloam, as is Bite Squad. For lunch we recommend going
 * Pioneer Pizza
 * Burrito House and Taqueria
 * Jim's Razorback Pizza
-* M&K Hot Food (Food truck)
 * Sonic
 * Subway
 * McDonald's
-* Burger Shack (Food truck)
 
 
 ## Area Activities
@@ -99,6 +95,7 @@ and climbing to museums, shopping, and dining. Below we've listed a few activiti
 the workshop, but we're happy to help you find activities further away if you're planning on
 staying in the area to explore.
 
+* Gentry Eagle Watch Trail
 * Sager Creek Trail (walk/bike on a nice paved trail)
 * Downtown Park (walk through downtown and enjoy the shops and outdoors areas)
 * City Lake (disc golf, biking, hiking, a bit of a drive)
