@@ -1,6 +1,6 @@
 # Schedule
-The building will be open and staff on-site from 8-5 daily, class starts prompty at 8:30! We
-will have coffee, water, and snacks available all day.
+The building will be open and staff on-site from 8-5 daily. Class starts prompty at 8:30! We
+will have coffee, water, and light snacks available all day.
 
 Breaks are not shown on the schedule, but we will have short 10-15 minute breaks periodically
 for refreshments.
@@ -16,11 +16,11 @@ for refreshments.
 * 1530-1700 Instrument Building - Session 1 (Planning)
 * 1800-2000 Brewery Poster Session and Mixer ([Ivory Bill Brewing 516 E. Main St.](https://www.theivorybill.com/))
 
-The evening event will be a poster session open to the public, we'll all be mixing to learn
+The evening event will be a poster session open to the public. We'll all be mixing to learn
 about each other's work while enjoying some local brews. Don't worry about standing beside your
 poster the entire time though, but please do answer questions as we have a very active and
 interested scientific community at the brewery! There are several restaurants that will
-deliver food to the brewery thought he Monday selected is a bit more limited.
+deliver food to the brewery though the Monday selection is a bit more limited.
 Casey at the bar can recommend food/beer for any taste!
 
 ## Tuesday
@@ -52,7 +52,7 @@ Weather permitting we will offer plane rides over Siloam and the surrounding are
 * 1630-1700 Collect Instrument Data and Start Analysis
 
 After the workshop, please join us for a BBQ celebrating sucessful instrument builds and a week
-at the shop! We'll be having a BBQ with outdoor games, food, and more at the Leeman House.
+at the shop! We'll be having a BBQ with games, food, and more at the Leeman House.
 
 ## Friday
 * 0830-1030 Data Analysis/Presentation Preparation
