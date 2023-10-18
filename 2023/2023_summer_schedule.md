@@ -25,7 +25,7 @@ Casey at the bar can recommend food/beer for any taste!
 
 ## Tuesday
 * 0830-0900 Live Fire Safety Training
-* 0900-1030 Working with Sheet Metal Guest Lecture and Activity
+* 0900-1030 Swagelok Training
 * 1030-1100 Sensors, Transducers, and Actuators
 * 1100-1200 Calibration and Standards
 * 1200-1330 Lunch
@@ -45,7 +45,7 @@ Weather permitting we will offer plane rides over Siloam and the surrounding are
 
 ## Thursday
 * 0830-1000 Nance Machine Tour
-* 1000-1200 Swagelok Training
+* 1000-1200 Working with Sheet Metal Guest Lecture and Activity
 * 1200-1330 Lunch
 * 1330-1430 Control Systems and PID
 * 1430-1630 Elective Areas (Welding, Machining, Electronics/Transducers with SMPL)
