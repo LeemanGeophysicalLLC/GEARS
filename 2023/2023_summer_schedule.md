@@ -6,13 +6,13 @@ Breaks are not shown on the schedule, but we will have short 10-15 minute breaks
 for refreshments.
 
 ## Monday
-* 0830-0930 Welcome, Introductions, Safety, Shop Walk Through, Project Outlines
-* 0930-1100 Multimeters, Oscilloscopes, and Electricity Basics
+* 0830-0930 [Welcome, Introductions, Safety, Shop Walk Through, Project Outlines](Welcome and Safety.pdf)
+* 0930-1100 [Multimeters](How to Use a Multimeter.pdf), [Oscilloscopes](How to Use an Oscilloscope.pdf), and [Electricity Basics](Electronics and Electricity Basics.pdf)
 * 1100-1200 Soldering demo and lab - build a blinky!
 * 1200-1330 Lunch
-* 1330-1400 General Instrumentation Concepts and System Level Design
-* 1400-1430 Designing for Manufacture (3D Printing, Machining, Laser Cutting)
-* 1430-1530 Making a DAQ System that Makes Sense
+* 1330-1400 [General Instrumentation Concepts and System Level Design](Making a DAQ System that Makes Sense.pdf)
+* 1400-1430 Designing for Manufacture ([3D Printing](3D Printing.pdf), [Machining](Design and Machining.pdf), [Laser Cutting](Laser Cutting.pdf))
+* 1430-1530 Elective
 * 1530-1700 Instrument Building - Session 1 (Planning)
 * 1800-2000 Brewery Poster Session and Mixer ([Ivory Bill Brewing 516 E. Main St.](https://www.theivorybill.com/))
 
@@ -26,8 +26,8 @@ Casey at the bar can recommend food/beer for any taste!
 ## Tuesday
 * 0830-0900 Live Fire Safety Training
 * 0900-1030 Swagelok Training
-* 1030-1100 Sensors, Transducers, and Actuators
-* 1100-1200 Calibration and Standards
+* 1030-1100 [Sensors, Transducers, and Actuators](Transducers.pdf)
+* 1100-1200 [Calibration and Standards](Calibration.pdf)
 * 1200-1330 Lunch
 * 1330-1700 Instrument Building - Session 2 (Build)
 
@@ -35,9 +35,9 @@ Weather permitting we will offer plane rides over Siloam and the surrounding are
 
 ## Wednesday
 
-* 0830-0930 Operational and Instrumentation Amplifiers
-* 0930-1100 Strain Gauges and Measurement Lecture/Lab
-* 1100-1200 Troubleshooting
+* 0830-0930 [Operational and Instrumentation Amplifiers](Operational Amplifiers.pdf)
+* 0930-1100 [Strain Gauges and Measurement Lecture/Lab](Wheatstone Bridges and Load Cells.pdf)
+* 1100-1200 [Troubleshooting](Troubleshooting.pdf)
 * 1200-1330 Lunch
 * 1330-1700 Instrument Building - Session 3 (Build and Deploy)
 
@@ -60,3 +60,11 @@ at the shop! We'll be having a BBQ with games, food, and more at the Leeman Hous
 * 1200-1330 Lunch
 * 1330-1400 Shannon Dulin Guest Presentation and Wrap Up
 * 1400-1600 Working on your projects/issues/Q&A/Departure
+
+## Other Presentations
+* [Communications](Communications.pdf)
+* [Unique Applications](Unique Applications.pdf)
+* [Field Considerations](Field Considerations.pdf)
+* [Fluid Power](Fluid Power.pdf)
+* [Impedance](Impedance.pdf)
+* [Where to Buy Things](Where to Buy Things.pdf)
