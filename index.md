@@ -6,7 +6,7 @@ conducted in an interdiciplinary format. Be sure to look through the course mate
 event details, and registrations pages!
 
 ## Upcoming Events
-* [November 6-10, 2023](2024/2024_summer_schedule.html)
+* [August 26-30, 2024](2024/2024_summer_schedule.html)
 
 ## General
 * [COVID Policy](COVID_policy.html)
