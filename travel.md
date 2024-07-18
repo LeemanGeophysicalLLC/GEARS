@@ -7,23 +7,19 @@ is a great small town and has many options for food, entertainment, and outdoors
 rural setting about 10 minutes from Siloam Springs by car.
 No public transportation is available in the area.
 
-**We recommend arriving Sunday November 5th and departing Friday evening or Saturday morning.**
+**We recommend arriving Sunday before the workshop and departing Friday evening or Saturday morning.**
 
 ## Travel
-We recommend travel into the Northwest Arkansas National Airport (KXNA). Sometimes you'll hear
+Flights are easy to get into Northwest Arkansas National Airport (KXNA). Sometimes you'll hear
 it called Highfill, Bentonville, Rogers, or Fayetteville - but as long as it is XNA you'll come
 to the right spot! We will provide a ride from the airport to the hotel for you, just be sure
-to send us your flight details at john@leemangeophysical.com. We will also be providing rides
-to the airport for departure.
+to send us your flight details. We will also be providing rides to the airport for departure.
 
 ## Lodging
 We recommend the [Hampton Inn](https://www.hilton.com/en/hotels/fyvsshx-hampton-siloam-springs/)
 in Siloam Springs. The hotel is within
 walking distance of many eateries, convenience stores, and a WalMart. We will shuttle you to
-and from the workshop if needed. When booking call the local number (479) 215-1000. **DO NOT** press
-the first option for new reservations. Stay on the line for the operator and tell them you are with
-the GEARS workshop for our better nightly rate. If you press the new reservation option you end
-up at a national call center that has no idea what GEARS is.
+and from the workshop if needed.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3220.339280112068!2d-94.51896408476995!3d36.18262968008034!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c9a27eba7f1223%3A0xbc00c25c02f4e906!2sHampton%20Inn%20Siloam%20Springs!5e0!3m2!1sen!2sus!4v1618358499410!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
@@ -93,7 +89,8 @@ Uber is alive and well in Siloam, as is Bite Squad. For lunch we recommend going
 Northwest Arkansas is a beautiful place to explore with activities ranging from hiking, biking,
 and climbing to museums, shopping, and dining. Below we've listed a few activities close to
 the workshop, but we're happy to help you find activities further away if you're planning on
-staying in the area to explore.
+staying in the area to explore. There are world class art museums, mountain bike trails, and
+more.
 
 * Gentry Eagle Watch Trail
 * Sager Creek Trail (walk/bike on a nice paved trail)

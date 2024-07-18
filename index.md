@@ -6,11 +6,9 @@ conducted in an interdiciplinary format. Be sure to look through the course mate
 event details, and registrations pages!
 
 ## Upcoming Events
-* [REGISTER NOW for August 2024!](https://forms.gle/fTKatBDL51MJDe6e6)
-* [August 26-30, 2024 Schedule](2024/2024_summer_schedule.html)
+* [August 26-30, 2024 Schedule](https://docs.google.com/spreadsheets/d/1M2i750BA-koWnzg9duBULaGDpKvCWyDa0SgEkovkD00/edit?usp=sharing)
 
 ## General
-* [COVID Policy](COVID_policy.html)
 * [Travel](travel.html)
 * [What to Bring](what_to_bring.html)
 
