@@ -5,10 +5,11 @@
 
 🎉 We’re celebrating **five years of GEARS** in 2025! This page is your go-to hub for all the essentials: what GEARS is, how to register, what to expect, and how to plan your visit.
 
-> 📣 **[Click here to register now!](https://forms.gle/1n6Dtky2T6zVgUvH8)**  
-> *Only 16 spots available — registration closes June 1, 2025!*
+📣 **[Click here to register now!](https://forms.gle/1n6Dtky2T6zVgUvH8)**  
+*Only 16 spots available — registration closes June 1, 2025!*
 
 > *"This workshop should be required in every graduate program that does field work."*
+
 ---
 
 ## 🔧 What is GEARS?
@@ -88,7 +89,7 @@ We’re located in Northwest Arkansas, with the XNA airport providing direct ser
 
 After you submit the registration form, we’ll send an invoice. Your spot is secured **once payment is received**.
 
-> ⚠️ We only accept **16 students** to keep the experience personal and hands-on. Once full, a short waitlist will be started and registration will close.
+⚠️ We only accept **16 students** to keep the experience personal and hands-on. Once full, a short waitlist will be started and registration will close.
 
 > *"I would send every second or rising second year student here before working on instruments. It’s invaluable as a knowledge base before working in the field."*
 
@@ -126,9 +127,9 @@ These partnerships provide opportunities like:
 
 We’ll update this section as sponsors for GEARS 2025 are confirmed.
 
-> **Want to support GEARS?**  
-> We’re currently accepting sponsors for workshop lunches and other in-kind contributions.  
-> **Email [support@leemangeophysical.com](mailto:support@leemangeophysical.com)** to learn how to get involved!
+**Want to support GEARS?**  
+We’re currently accepting sponsors for workshop lunches and other in-kind contributions.  
+**Email [support@leemangeophysical.com](mailto:support@leemangeophysical.com)** to learn how to get involved!
 
 ![Factory tour](assets/factory_tour.png)
 
