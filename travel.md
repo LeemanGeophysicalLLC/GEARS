@@ -18,8 +18,8 @@ to send us your flight details. We will also be providing rides to the airport f
 ## Lodging
 We recommend the [Hampton Inn](https://www.hilton.com/en/hotels/fyvsshx-hampton-siloam-springs/)
 in Siloam Springs. The hotel is within
-walking distance of many eateries, convenience stores, and a WalMart. We will shuttle you to
-and from the workshop if needed.
+walking distance of many eateries, convenience stores, and a WalMart. We can provide limited transportation
+from the hotel and details will be arranged after the close of registration.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3220.339280112068!2d-94.51896408476995!3d36.18262968008034!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c9a27eba7f1223%3A0xbc00c25c02f4e906!2sHampton%20Inn%20Siloam%20Springs!5e0!3m2!1sen!2sus!4v1618358499410!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
@@ -29,7 +29,7 @@ This is a state of the art machining and manufacturing facility with tons of too
 available for the workshop.
 
 ## Food
-Meals, except the Thursday night BBQ and Friday lunch are on your own.
+We are working to find sponsors for lunches, but dinners and some lunches are on your own.
 The hotel does have a small breakfast buffet.
 There are many eateries within walking distance of the hotel. We've listed them below as
 well as some that are further away, but also good choices.
@@ -64,8 +64,6 @@ Uber is alive and well in Siloam, as is Bite Squad. For lunch we recommend going
 * Pure Joy Ice Cream
 * Cafe on Broadway
 * Pour John's
-* Tintos & Tapas
-* Ivory Bill Brewing
 * Park House
 * Creekside Tap Room
 * Downtown has some foodtrucks
