@@ -12,6 +12,7 @@
 ## During the Workshop
 
 * [Workshop Schedule](https://docs.google.com/spreadsheets/d/1mL5oBOXQ8svQjKmVeLk89pZyld7fiX_PDNDDkVFo4Nc/edit?usp=sharing)
+* [Workshop Downloads](https://drive.google.com/drive/folders/1v9dg0aPohtzrh-doQ6cejM3iQyRMEiia?usp=sharing)
 
 ---
 
