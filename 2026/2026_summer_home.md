@@ -3,10 +3,10 @@
 
 ![GEARS Students](assets/gears_students_header.png)
 
-🎉 We’re celebrating **five years of GEARS** in 2025! This page is your go-to hub for all the essentials: what GEARS is, how to register, what to expect, and how to plan your visit.
+This page is your go-to hub for all the essentials: what GEARS is, how to register, what to expect, and how to plan your visit.
 
-📣 **[Click here to register now!](https://forms.gle/1n6Dtky2T6zVgUvH8)**  
-*Only 16 spots available — registration closes June 1, 2025!*
+📣 **[Click here to register now!](https://forms.gle/UUkBsh5M95CYnsHM7)**  
+*Only 16 spots available — registration closes June 1, 2026!*
 
 > *"This workshop should be required in every graduate program that does field work."*
 
@@ -42,12 +42,13 @@ The skills are broadly applicable across Earth science, physics, engineering, bi
 
 Curious what the GEARS experience is like? Check out blog posts and recaps from previous workshops to see student projects, photos, and what we covered each year:
 
-- 🔧 [GEARS 2024 Workshop Recap](https://leemangeophysical.com/gears-2024-workshop/)
-- 🛠 [GEARS 2023 Workshop Recap](https://leemangeophysical.com/gears-2023-workshop/)
-- 🧪 [GEARS 2022 Workshop Recap](https://leemangeophysical.com/gears-2022-workshop/)
-- ⚙️ [GEARS 2021 Workshop Recap](https://leemangeophysical.com/gears-2021-workshop/)
+- [GEARS 2025 Workshop Recap](https://leemangeophysical.com/gears-2025-workshop/)
+- [GEARS 2024 Workshop Recap](https://leemangeophysical.com/gears-2024-workshop/)
+- [GEARS 2023 Workshop Recap](https://leemangeophysical.com/gears-2023-workshop/)
+- [GEARS 2022 Workshop Recap](https://leemangeophysical.com/gears-2022-workshop/)
+- [GEARS 2021 Workshop Recap](https://leemangeophysical.com/gears-2021-workshop/)
 
-Each year we refine the workshop with student feedback, new tech, and more hands-on tools. GEARS 2025 will build on everything we’ve learned — and it’s going to be our best yet.
+Each year we refine the workshop with student feedback, new tech, and more hands-on tools. GEARS 2026 will build on everything we’ve learned — and it’s going to be our best yet.
 
 ![Student running a lathe](assets/running_lathe.png)
 
@@ -74,7 +75,7 @@ We’ve had everyone from freshmen to full professors successfully complete GEAR
 
 ## 📍 When & Where?
 
-**🗓 August 11–15, 2025**  
+**🗓 August 3-7, 2026**  
 **📍 Leeman Geophysical LLC — Gentry, Arkansas, USA**
 
 We’re located in Northwest Arkansas, with the XNA airport providing direct service to many destinations. Full travel guidance is available on our [Travel Info Page](../travel.md).
@@ -83,9 +84,9 @@ We’re located in Northwest Arkansas, with the XNA airport providing direct ser
 
 ## 📝 Registration Info
 
-**💰 Cost:** $750 per student  
-**⏳ Deadline:** Registration closes June 1, 2025  
-**📋 [Register Now](https://forms.gle/1n6Dtky2T6zVgUvH8)** — first come, first served!
+**💰 Cost:** $800 per student  
+**⏳ Deadline:** Registration closes June 1, 2026 
+**📋 [Register Now](https://forms.gle/UUkBsh5M95CYnsHM7)** — first come, first served!
 
 After you submit the registration form, we’ll send an invoice. Your spot is secured **once payment is received**.
 
@@ -97,7 +98,7 @@ After you submit the registration form, we’ll send an invoice. Your spot is se
 
 ## 💸 Refund & Cancellation Policy
 
-- Cancel **by June 1**: Refund of $700  
+- Cancel **by June 1**: Refund of $800  
 - Cancel **by July 1**: Refund of $300  
 - **No refunds** after July 1  
 
@@ -109,9 +110,9 @@ If you need to cancel, email us as soon as possible so we can offer your spot to
 
 Participants are **responsible for their own lodging, transportation, and meals**, but we make it easy:
 
-- 🧭 Our [Travel Info Page](../travel.md) includes local lodging, airport, and other information.
-- 🍴 We’re currently working to **arrange sponsored lunches** for workshop days.
-- 🔥 One evening during the week, we host a **free BBQ dinner** at Leeman house — a great time to relax, network, and nerd out.
+- Our [Travel Info Page](../travel.md) includes local lodging, airport, and other information.
+- We’re currently working to **arrange sponsored lunches** for workshop days.
+- One evening during the week, we host a **free BBQ dinner** at Leeman house — a great time to relax, network, and nerd out.
 
 ---
 
@@ -142,7 +143,7 @@ Email us at **support@leemangeophysical.com** or call the office at 479-373-3736
 ---
 
 🚀 **Ready to join us?**  
-👉 [Register here](https://forms.gle/1n6Dtky2T6zVgUvH8) before June 1!
+👉 [Register here](https://forms.gle/UUkBsh5M95CYnsHM7) before June 1!
 
 ![Fire safety exercise](assets/fire_safety.png)
 
