@@ -1,5 +1,5 @@
-# GEARS 2025 Workshop  
-**August 11–15, 2025 | Gentry, Arkansas, USA**
+# GEARS 2026 Workshop  
+**August 3-7, 2026 | Gentry, Arkansas, USA**
 
 ![GEARS Students](assets/gears_students_header.png)
 
