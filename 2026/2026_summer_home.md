@@ -5,8 +5,7 @@
 
 This page is your go-to hub for all the essentials: what GEARS is, how to register, what to expect, and how to plan your visit.
 
-📣 **[Click here to register now!](https://forms.gle/UUkBsh5M95CYnsHM7)**  
-*Only 16 spots available — registration closes June 1, 2026!*
+**[Course Schedule](https://docs.google.com/spreadsheets/d/1QTFcDykmVLcdeYhNPm4K5bgUkA26U2xNvWppAopHZj4/edit?usp=sharing)**  
 
 > *"This workshop should be required in every graduate program that does field work."*
 
@@ -111,7 +110,7 @@ If you need to cancel, email us as soon as possible so we can offer your spot to
 Participants are **responsible for their own lodging, transportation, and meals**, but we make it easy:
 
 - Our [Travel Info Page](../travel.md) includes local lodging, airport, and other information.
-- We’re currently working to **arrange sponsored lunches** for workshop days.
+- All lunches have been sponsored by local businesses and will be provided.
 - One evening during the week, we host a **free BBQ dinner** at Leeman house — a great time to relax, network, and nerd out.
 
 ---
